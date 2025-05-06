@@ -1,0 +1,21 @@
+.footer-container {
+  background-color: #f7d354;
+  padding: 1em;
+  text-align: center;
+}
+
+.social-list-ul {
+  display: flex;
+  justify-content: center;
+}
+
+.link-a {
+  margin: 0 1em;
+  font-size: 1.5em;
+  transition: 0.3s ease-in-out;
+  color: #000;
+}
+
+.link-a:hover {
+  cursor: pointer;
+}
