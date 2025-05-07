@@ -1,11 +1,11 @@
-.layout {
+.layout-container {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
-}
 
-.content {
-  flex-grow: 1;
-  padding: 20px;
-  margin-top: 60px;
+  main {
+    flex-grow: 1;
+    padding: 20px;
+    margin-top: 60px;
+  }
 }

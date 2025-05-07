@@ -1,12 +1,37 @@
-# React + Vite
+```markdown
+# 🎬 Movies Library
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Movies Library é um aplicativo web que permite aos usuários visualizar informações sobre filmes, incluindo os mais bem avaliados, detalhes individuais e uma pesquisa interativa.
 
-Currently, two official plugins are available:
+## 📌 Tecnologias Utilizadas
+- **React** - Para construção da interface interativa
+- **React Router** - Para navegação entre páginas
+- **React Icons** - Para utilização de ícones estilizados
+- **Vite** - Para um ambiente de desenvolvimento otimizado
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Como Executar o Projeto
+1. Clone este repositório:
+   ```
+   git clone https://github.com/YudiYamada/movies-library
+   ```
+2. Acesse a pasta do projeto:
+   ```
+   cd movies-library
+   ```
+3. Instale as dependências:
+   ```
+   npm install
+   ```
+4. Inicie o ambiente de desenvolvimento:
+   ```
+   npm run dev
+   ```
 
-## Expanding the ESLint configuration
+## 🔍 Funcionalidades
+- Exibição de filmes populares e bem avaliados
+- Busca dinâmica de filmes
+- Página de detalhes com informações completas sobre cada filme
+- Navegação intuitiva entre páginas
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📜 Licença
+Este projeto está licenciado sob a MIT License.

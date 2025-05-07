@@ -5,9 +5,9 @@ import "./styles.css";
 
 const Layout = () => {
   return (
-    <div className="layout">
+    <div className="layout-container">
       <Header />
-      <main className="content">
+      <main>
         <Outlet />
       </main>
       <Footer />

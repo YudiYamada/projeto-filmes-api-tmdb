@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
 import MovieCard from "../../components/MovieCard";
+import "./styles.css";
 
 const moviesURL = import.meta.env.VITE_API;
 const apiKey = import.meta.env.VITE_API_KEY;
@@ -20,7 +21,7 @@ function Home() {
   }, []);
 
   return (
-    <div className="container">
+    <div className="container-home">
       <h2 className="title">Melhores filmes:</h2>
       <div className="movies-container">
         {topMovies.length === 0 && <p>Carregando...</p>}
