@@ -1,4 +1,3 @@
-```markdown
 # 🎬 Movies Library
 
 Movies Library é um aplicativo web que permite aos usuários visualizar informações sobre filmes, incluindo os mais bem avaliados, detalhes individuais e uma pesquisa interativa.
