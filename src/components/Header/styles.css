@@ -44,4 +44,50 @@
       color: #f7d354;
     }
   }
+
+  .menu-toggle {
+    display: none;
+    font-size: 2rem;
+    background: none;
+    border: none;
+    color: white;
+    cursor: pointer;
+    transition: transform 0.3s ease-in-out;
+  }
+
+  .menu-toggle.rotated {
+    transform: rotate(90deg);
+  }
+
+  @media (max-width: 600px) {
+    .menu-toggle {
+      display: block;
+      font-size: 2.5rem;
+      color: #f7d354;
+    }
+
+    .input-search {
+      width: 100%;
+    }
+
+    .search-bar {
+      position: absolute;
+      top: 70px;
+      left: -100%;
+      width: 100%;
+      background-color: #121212;
+      padding: 1rem;
+      transition: left 0.3s ease-in-out;
+    }
+
+    .search-bar.open {
+      left: 0;
+    }
+  }
+
+  @media (max-width: 370px) {
+    .search-bar {
+      top: 80px;
+    }
+  }
 }

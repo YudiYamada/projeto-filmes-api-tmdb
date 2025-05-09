@@ -2,19 +2,19 @@
   background-color: #121212;
   padding: 1em;
   text-align: center;
-}
 
-.social-list-ul {
-  display: flex;
-  justify-content: center;
-}
+  .social-list-ul {
+    display: flex;
+    justify-content: center;
+  }
 
-.link-a {
-  margin: 0 1em;
-  font-size: 1.5em;
-  transition: 0.3s ease-in-out;
-}
+  .link-a {
+    margin: 0 1em;
+    font-size: 1.5em;
+    transition: 0.3s ease-in-out;
+  }
 
-.link-a:hover {
-  cursor: pointer;
+  .link-a:hover {
+    cursor: pointer;
+  }
 }

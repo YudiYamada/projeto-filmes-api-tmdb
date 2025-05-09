@@ -11,7 +11,9 @@
   }
 
   .movie-card {
+    width: auto;
     text-align: center;
+    background-color: transparent;
 
     img,
     h2,
