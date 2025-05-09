@@ -2,16 +2,6 @@
 
 Movies Library é um aplicativo web que permite aos usuários visualizar informações sobre filmes, incluindo os mais bem avaliados, detalhes individuais e uma pesquisa interativa.
 
-## 📸 Capturas de Tela
-
-### 🖥️ Versão Desktop
-
-![Project Desktop](/project_final_desktop.png)
-
-### 📱 Versão Mobile
-
-![Project Mobile](/project_final_mobile.png)
-
 ## [Vizualize o projeto clicando aqui](https://yudiyamada.github.io/projeto-filmes-api-tmdb/)
 
 ## 📌 Tecnologias Utilizadas
