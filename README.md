@@ -6,11 +6,11 @@ Movies Library é um aplicativo web que permite aos usuários visualizar informa
 
 ### 🖥️ Versão Desktop
 
-![Project Desktop](./src/assets/img/project_final_desktop.png)
+![Project Desktop](/imgs/project_final_desktop.png)
 
 ### 📱 Versão Mobile
 
-![Project Mobile](./src/assets/img/project_final_mobile.png)
+![Project Mobile](/imgs/project_final_mobile.png)
 
 ## [Vizualize o projeto clicando aqui](https://yudiyamada.github.io/projeto-filmes-api-tmdb/)
 
